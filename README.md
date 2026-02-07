@@ -33,6 +33,28 @@ https://creativecommons.org/licenses/by/4.0/
 
 
 # II. Methods（研究方法）
+## 使用ツール / Tools
+
+- **[QGIS 3.44](https://qgis.org/)**（2025–2026）  
+  距離計測、街灯密度分析、ルート可視化、地図作成
+
+- **[OpenStreetMap (OSM)](https://www.openstreetmap.org/)**  
+  道路・信号・横断歩道・街灯データ
+
+- **[Google Earth](https://www.google.com/earth/)**  
+  景観確認、歩道状況の事前チェック
+
+- **[Strava（無料版）](https://www.strava.com/)**（2025–2026）  
+  歩行ログ（GPX）取得、移動速度・停止時間の分析
+
+- **[GPX Track Splitter](https://mapconcierge.github.io/GPXtrackSplitter/)**（2026）  
+  GPX データのセクション分割
+
+- **[Microsoft Excel](https://www.microsoft.com/microsoft-365/excel)**（2025–2026）  
+  セクション別歩行時間・距離の整理、平均値算出
+
+- **[ChatGPT 5.2](https://chat.openai.com/)**（2025–2026）  
+  研究設計、分析手法整理、数式整理、README・コード作成補助
 
 ## 1. 歩行ルートの選定と絞り込み
 
