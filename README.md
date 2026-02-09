@@ -87,7 +87,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 
 
-<img width="1440" height="900" alt="routes_comparison" src="https://github.com/user-attachments/assets/3342a77b-d9c3-430b-ac14-8e5034c905e4"/>
+
 
 
 ![section_map_zoom2](https://github.com/user-attachments/assets/b609701b-b5db-402e-bcf4-d5aff3d19809)
