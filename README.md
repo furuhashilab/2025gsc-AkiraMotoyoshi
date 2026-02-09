@@ -67,7 +67,6 @@ https://creativecommons.org/licenses/by/4.0/
 
 道をセクションにわけ、QGIS 上に LineString として作成し、分析対象とした。
 
-<img src="https://github.com/user-attachments/assets/538531a8-b045-4375-b56d-f42b3526e090"width="300">
 
 ---
 
